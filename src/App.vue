@@ -1,14 +1,14 @@
 <template>
     <div class="conteiner">
-        <FormComp></FormComp>
+        <Posts/>
     </div>
 </template>
 
 <script>
-import FormComp from "@/components/FormPost.vue"
+import Posts from "@/components/Posts.vue"
     export default {
         components: {
-            FormComp
+            Posts
         }
     }
 </script>
