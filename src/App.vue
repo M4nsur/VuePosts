@@ -13,7 +13,7 @@ import Posts from "@/components/Posts.vue"
     }
 </script>
 
-<style>
+<style scoped>
     .conteiner {
         width: 700px;
         margin: 0 auto;
