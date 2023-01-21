@@ -9,10 +9,8 @@
 </template>
 
 <script>
-import ButtonComp from "@/components/UI/ButtonComp.vue"
     export default {
         components: {
-            ButtonComp
         },
         data() {
             return {

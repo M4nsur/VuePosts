@@ -13,11 +13,9 @@
 
 <script>
 import FormComp from "./FormComp.vue"
-import ButtonComp from "./UI/ButtonComp.vue"
 export default {
     components: {
         FormComp,
-        ButtonComp
     },
     data() {
         return {

@@ -4,6 +4,12 @@
     </button>
 </template>
 
+<script>
+    export default {
+        name: "ButtonComp"
+    }
+</script>
+
 <style scoped>
     .uiBtn {
         background: none;
